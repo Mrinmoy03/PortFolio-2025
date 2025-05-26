@@ -24,7 +24,7 @@ This project showcases my skills, projects, and experiences as a front-end web d
 - Project gallery with live preview links
 - Contact section with social media links
 - Animations and transitions for better user experience
-- trtsADDADD
+
 
 
 
